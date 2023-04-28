@@ -65,3 +65,4 @@ export const PRODUCTS = [
 
     },
 ];
+/* these lines of code represent the images on my website*/
